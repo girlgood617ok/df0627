@@ -1,5 +1,5 @@
 services:
-  girlgood617ok/df0627:
+  df0627:
     build: .
     shm_size: 2.6gb
     ports:
